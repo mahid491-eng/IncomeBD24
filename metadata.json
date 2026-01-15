@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IncomeBD24 2",
+  "description": "A premium daily income tracker with a modern dark theme, featuring wallet management and task tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
